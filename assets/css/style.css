@@ -52,19 +52,20 @@ nav a:hover {
     color: darkred;
 }
 
-#banner {
+/*#banner {
     width: 100%;
     height: auto;
     background-color: white;
-}
+}*/
 
-#banner img {
-    width: 60%;
-    height: auto;
-}
+/*#banner {
+    width: 100%;
+    height: Auto;
+}*/
 
 .service {
     display: inline-block;
+    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
